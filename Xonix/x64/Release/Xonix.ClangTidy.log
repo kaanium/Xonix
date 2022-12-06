@@ -1,0 +1,8 @@
+C:\Users\KAAN\source\repos\Xonix\Xonix\Source.cpp:249:13: warning: enumeration value 'RESET' not handled in switch [clang-diagnostic-switch]
+    switch (dir) {
+            ^
+Suppressed 4 warnings (4 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+C:\Users\KAAN\source\repos\Xonix\Xonix\Source.cpp:309:1: warning: all paths through this function will call itself [clang-diagnostic-infinite-recursion]
+{
+^

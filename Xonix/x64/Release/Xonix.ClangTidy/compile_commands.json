@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "C:\\Users\\KAAN\\source\\repos\\Xonix\\Xonix",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/I\"C:\\c++ lib\\boost_1_79_0\" \/I\"C:\\c++ lib\\GSL-main\\include\" \/Zi \/nologo \/W3 \/WX- \/diagnostics:column \/O2 \/Oi \/D \"CODE_ANALYSIS\" \/D NDEBUG \/D _CONSOLE \/D \"_UNICODE\" \/D \"UNICODE\" \/EHsc \/MD \/GS \/Gy \/fp:precise \/permissive- \/Fo\"x64\\Release\\\\\" \/Gd \/TP   \"C:\\Users\\KAAN\\source\\repos\\Xonix\\Xonix\\Enemies.cpp\"",
+    "file": "C:\\Users\\KAAN\\source\\repos\\Xonix\\Xonix\\Enemies.cpp"
+  },
+  {
+    "directory": "C:\\Users\\KAAN\\source\\repos\\Xonix\\Xonix",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/I\"C:\\c++ lib\\boost_1_79_0\" \/I\"C:\\c++ lib\\GSL-main\\include\" \/Zi \/nologo \/W3 \/WX- \/diagnostics:column \/O2 \/Oi \/D \"CODE_ANALYSIS\" \/D NDEBUG \/D _CONSOLE \/D \"_UNICODE\" \/D \"UNICODE\" \/EHsc \/MD \/GS \/Gy \/fp:precise \/permissive- \/Fo\"x64\\Release\\\\\" \/Gd \/TP   \"C:\\Users\\KAAN\\source\\repos\\Xonix\\Xonix\\Source.cpp\"",
+    "file": "C:\\Users\\KAAN\\source\\repos\\Xonix\\Xonix\\Source.cpp"
+  }
+]
